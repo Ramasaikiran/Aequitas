@@ -1,0 +1,6 @@
+{
+  "name": "Aequitas Medical Auditor",
+  "description": "A bias auditing tool for medical prediction models, focusing on detecting fairness violations and proxy variables in clinical datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
